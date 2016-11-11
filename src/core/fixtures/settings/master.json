@@ -1315,7 +1315,9 @@
     "name": "one_click_review_url",
     "types": "boolean",
     "description": "Allow reviewers to access and complete assignments without registering an account.<br>WARNING: Enabling this option makes data less secure."
-  }
+  },
+  "model": "core.setting",
+  "pk": 124
  }
 
 ]
